@@ -1,1 +1,1 @@
-This is folder where "raw" data can be stored. This is typically xlsx files with data such as db exports, data and metadata files changing from time to time. If multiple data sets from different soruces are to be added, make subfolder to differentiate.
+This is folder where "raw" data and scripts in R can be stored. This is typically xlsx files with data such as db exports, data and metadata files changing from time to time. If multiple data sets from different soruces are to be added, make subfolder to differentiate.
